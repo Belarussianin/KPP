@@ -1,0 +1,12 @@
+package com.strinv;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class StringInversionApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(StringInversionApplication.class, args);
+    }
+}
